@@ -1,0 +1,6 @@
+#Esse file foi gerado automaticamente
+#Thu Dec 21 11:56:28 BRST 2017
+ID=1000
+user=admin
+password=321
+host=localhost\:8080
